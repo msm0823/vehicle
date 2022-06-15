@@ -1,6 +1,6 @@
 {
-  "name": "hovercraft",
-  "description": "hovercraft",
+  "name": "airplane",
+  "description": "airplane",
   "start_url": "airplane.glb",
   "components": [
     {
