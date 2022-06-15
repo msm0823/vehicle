@@ -1,7 +1,7 @@
 {
-  "name": "airplane",
-  "description": "airplane",
-  "start_url": "airplane.glb",
+  "name": "hovercraft",
+  "description": "hovercraft",
+  "start_url": "hovercraft.glb",
   "components": [
     {
       "key": "sit",
